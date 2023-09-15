@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Hi,&nbsp;COME&nbsp;AND&nbsp;SEE&nbsp;SJ!!&fontColor=5a00e1&fontSize=70&animation=fadeInfontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+
+</div>
 
 # Tech Stack 
 <div align="center">
